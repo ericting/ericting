@@ -43,6 +43,9 @@ Embedded software engineer specializing in audio processing and effects algorith
 ### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ericting&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericting&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=ericting&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://ghchart.rshah.org/ericting" alt="GitHub Contribution Chart" />
 </p>
