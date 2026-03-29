@@ -19,9 +19,18 @@ Embedded software engineer specializing in audio processing and effects algorith
 
 **IDEs & Tools**
 
-![IAR](https://img.shields.io/badge/IAR-004B87?style=flat-square&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR-004B87?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-0B5FFF?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-0B5FFF?style=flat-square&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Platforms & RTOS**
+
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+![NXP](https://img.shields.io/badge/NXP-00A9CE?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat-square)
+![Zephyr](https://img.shields.io/badge/Zephyr-333333?style=flat-square)
 
 **Domains**
 
